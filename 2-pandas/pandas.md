@@ -150,4 +150,6 @@ sr.loc
 
 # read_sql
 1. fetch all data into memory, can use chunk to optimize performance.
-2. 
+
+
+# settingWithCopyWarning
